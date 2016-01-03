@@ -1,5 +1,10 @@
 # YourTunes File System
 
+Credits:
+* Chad Miller - C backend
+* Stephen Dolan - Python scripts, server maintenance, database maintenance
+* Matthew Taylor - performance measurement, documentation
+
 ### Requirements
 
 * PostgreSQL 9.3
